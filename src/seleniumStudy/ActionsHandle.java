@@ -23,6 +23,7 @@ public class ActionsHandle {
 		driver.findElement(By.linkText("Apply for Dell Business Credit")).click();
 		
 		driver.close();
+		System.out.println("Mission done");
 
 	}
 
